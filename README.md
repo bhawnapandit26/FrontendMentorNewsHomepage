@@ -3,3 +3,5 @@
 This project is solution for challenge named "News Homepage" from Frontend Mentor's page. 
 
 This soution is using Tailwind CSS.
+
+live page link: https://bhawnapandit26.github.io/FrontendMentorNewsHomepage/
